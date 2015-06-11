@@ -4,7 +4,15 @@
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {},
-  "development": {},
+  "devDependencies": {},
   "license": "",
-  "main": "emoji.js"
+  "main": "emoji.js",
+  "styles": [
+    "emoji.css"
+  ],
+  "images": [
+    "images/sheet_16.png",
+    "images/sheet_32.png",
+    "images/sheet_64.png"
+  ]
 }
